@@ -28,10 +28,7 @@
     box-shadow: 10px 10px 5px rgb(136, 120, 120);
     transition: 0.2s;
   }
-  .img-div img:hover{
-    transform: scale(1.4);
-    
-  }
+  
   .footer{
     color: #fa9191;
     text-align:right;
